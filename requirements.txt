@@ -1,0 +1,9 @@
+# requirements.txt
+
+fastapi
+uvicorn
+pandas
+pytrends
+prophet
+httptools
+uvloop
